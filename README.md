@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-<!--
+
 **madeofpendletonwool/madeofpendletonwool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... [`Pinepods!`](https://github.com/madeofpendletonwool/PinePods)
+- 🔭 I’m currently working on ... [Pinepods!](https://github.com/madeofpendletonwool/PinePods)
 - 🌱 I’m currently learning ... Rust, Kubernetes, Postgres, AWS
 - 👯 I’m looking to collaborate on ... Pinepods, Rust-based projects, Python-based projects and things and automate tasks.
 - 🤔 I’m looking for help with ... Pinepods, Pinepods-Firewood
 - 💬 Ask me about ... Devops, automation pipelines that I've built
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ... collinp@collinpendleton.com, collinp@gooseberrydevelopment.com
+- 😄 Pronouns: ... He/Him
+<!--
 - ⚡ Fun fact: ...
 -->
 
