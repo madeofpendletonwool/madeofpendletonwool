@@ -7,9 +7,6 @@
 - 💬 Ask me about ... Devops, automation pipelines that I've built
 - 📫 How to reach me: ... collinp@collinpendleton.com, collinp@gooseberrydevelopment.com
 - 😄 Pronouns: ... He/Him
-<!--
-- ⚡ Fun fact: ...
--->
 
 
 <br/>
