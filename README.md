@@ -33,7 +33,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.ansible.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/></code> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.docker.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></code> 
